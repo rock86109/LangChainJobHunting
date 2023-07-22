@@ -1,0 +1,7 @@
+python-dotenv
+langchain
+openai
+googlesearch-python
+nest_asyncio
+tiktoken
+faiss-cpu
